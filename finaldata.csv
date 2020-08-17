@@ -1,0 +1,1214 @@
+sex,Predicted_age,Weekday,TimeOfDay,mean,StressLevel
+F,18,Saturday,Night,65.0,Very Stressed
+F,18,Thursday,Eve,65.0,Very Stressed
+F,19,Thursday,Eve,65.0,Very Stressed
+F,19,Thursday,Night,10.0,Great
+F,19,Wednesday,Night,52.0,Stressed
+F,20,Friday,Night,65.0,Very Stressed
+F,20,Thursday,Night,37.5,Alright
+F,20,Tuesday,Night,17.0,Great
+F,21,Monday,Eve,65.0,Very Stressed
+F,21,Thursday,Noon,94.0,Exhausted
+F,21,Wednesday,Eve,65.0,Very Stressed
+F,22,Sunday,Night,66.0,Very Stressed
+F,22,Sunday,Noon,66.0,Very Stressed
+F,22,Wednesday,Night,65.0,Very Stressed
+F,23,Friday,Eve,65.0,Very Stressed
+F,23,Saturday,Night,65.0,Very Stressed
+F,24,Monday,Morning,65.0,Very Stressed
+F,24,Sunday,Noon,66.0,Very Stressed
+F,24,Tuesday,Eve,65.0,Very Stressed
+F,25,Friday,Eve,65.0,Very Stressed
+F,25,Monday,Eve,65.0,Very Stressed
+F,25,Monday,Morning,65.0,Very Stressed
+F,25,Monday,Night,46.66666666666666,Stressed
+F,25,Saturday,Morning,77.0,Very Stressed
+F,25,Saturday,Night,65.0,Very Stressed
+F,25,Sunday,Eve,65.0,Very Stressed
+F,25,Thursday,Eve,65.0,Very Stressed
+F,25,Thursday,Night,53.33333333333334,Stressed
+F,25,Thursday,Noon,65.0,Very Stressed
+F,25,Tuesday,Night,65.0,Very Stressed
+F,25,Wednesday,Eve,58.0,Stressed
+F,25,Wednesday,Night,65.0,Very Stressed
+F,25,Wednesday,Noon,52.0,Stressed
+F,26,Friday,Eve,56.82352941176471,Stressed
+F,26,Friday,Morning,55.66666666666666,Stressed
+F,26,Friday,Night,57.25,Stressed
+F,26,Friday,Noon,55.18181818181818,Stressed
+F,26,Monday,Eve,61.5,Very Stressed
+F,26,Monday,Morning,46.57142857142857,Stressed
+F,26,Monday,Night,54.18181818181818,Stressed
+F,26,Monday,Noon,49.57142857142857,Stressed
+F,26,Saturday,Eve,55.83333333333334,Stressed
+F,26,Saturday,Morning,47.0,Stressed
+F,26,Saturday,Night,68.19047619047619,Very Stressed
+F,26,Saturday,Noon,57.25,Stressed
+F,26,Sunday,Eve,61.0,Very Stressed
+F,26,Sunday,Morning,64.45454545454545,Very Stressed
+F,26,Sunday,Night,64.27272727272727,Very Stressed
+F,26,Sunday,Noon,61.625,Very Stressed
+F,26,Thursday,Eve,65.2,Very Stressed
+F,26,Thursday,Morning,48.125,Stressed
+F,26,Thursday,Night,61.31428571428572,Very Stressed
+F,26,Thursday,Noon,55.4,Stressed
+F,26,Tuesday,Eve,62.9,Very Stressed
+F,26,Tuesday,Morning,41.5,Stressed
+F,26,Tuesday,Night,58.96666666666667,Stressed
+F,26,Tuesday,Noon,52.230769230769226,Stressed
+F,26,Wednesday,Eve,55.157894736842096,Stressed
+F,26,Wednesday,Morning,43.111111111111114,Stressed
+F,26,Wednesday,Night,63.70588235294117,Very Stressed
+F,26,Wednesday,Noon,59.9,Stressed
+F,27,Friday,Eve,54.54545454545455,Stressed
+F,27,Friday,Morning,54.375,Stressed
+F,27,Friday,Night,63.05,Very Stressed
+F,27,Friday,Noon,59.8,Stressed
+F,27,Monday,Eve,66.44444444444444,Very Stressed
+F,27,Monday,Morning,51.75,Stressed
+F,27,Monday,Night,48.60714285714285,Stressed
+F,27,Monday,Noon,54.68421052631579,Stressed
+F,27,Saturday,Eve,64.5,Very Stressed
+F,27,Saturday,Morning,52.0,Stressed
+F,27,Saturday,Night,62.14285714285714,Very Stressed
+F,27,Saturday,Noon,51.83333333333334,Stressed
+F,27,Sunday,Eve,65.4,Very Stressed
+F,27,Sunday,Morning,65.2,Very Stressed
+F,27,Sunday,Night,64.5,Very Stressed
+F,27,Sunday,Noon,68.0,Very Stressed
+F,27,Thursday,Eve,61.375,Very Stressed
+F,27,Thursday,Morning,60.36363636363637,Very Stressed
+F,27,Thursday,Night,61.463414634146346,Very Stressed
+F,27,Thursday,Noon,60.625,Very Stressed
+F,27,Tuesday,Eve,62.66666666666666,Very Stressed
+F,27,Tuesday,Morning,44.555555555555564,Stressed
+F,27,Tuesday,Night,57.88571428571429,Stressed
+F,27,Tuesday,Noon,58.0,Stressed
+F,27,Wednesday,Eve,61.1,Very Stressed
+F,27,Wednesday,Morning,54.33333333333334,Stressed
+F,27,Wednesday,Night,62.125,Very Stressed
+F,27,Wednesday,Noon,53.73333333333333,Stressed
+F,28,Friday,Eve,50.38095238095239,Stressed
+F,28,Friday,Morning,49.111111111111114,Stressed
+F,28,Friday,Night,63.375,Very Stressed
+F,28,Friday,Noon,56.33333333333334,Stressed
+F,28,Monday,Eve,56.54166666666666,Stressed
+F,28,Monday,Morning,56.16666666666666,Stressed
+F,28,Monday,Night,53.941176470588225,Stressed
+F,28,Monday,Noon,55.22222222222222,Stressed
+F,28,Saturday,Eve,54.09090909090909,Stressed
+F,28,Saturday,Morning,60.6,Very Stressed
+F,28,Saturday,Night,69.0952380952381,Very Stressed
+F,28,Saturday,Noon,55.69230769230769,Stressed
+F,28,Sunday,Eve,60.83333333333334,Very Stressed
+F,28,Sunday,Morning,65.5625,Very Stressed
+F,28,Sunday,Night,71.17241379310343,Very Stressed
+F,28,Sunday,Noon,62.375,Very Stressed
+F,28,Thursday,Eve,58.33333333333334,Stressed
+F,28,Thursday,Morning,63.85714285714285,Very Stressed
+F,28,Thursday,Night,57.43243243243244,Stressed
+F,28,Thursday,Noon,40.230769230769226,Stressed
+F,28,Tuesday,Eve,56.88888888888889,Stressed
+F,28,Tuesday,Morning,52.769230769230774,Stressed
+F,28,Tuesday,Night,52.878048780487795,Stressed
+F,28,Tuesday,Noon,51.8,Stressed
+F,28,Wednesday,Eve,61.529411764705884,Very Stressed
+F,28,Wednesday,Morning,67.0,Very Stressed
+F,28,Wednesday,Night,63.615384615384606,Very Stressed
+F,28,Wednesday,Noon,56.615384615384606,Stressed
+F,29,Friday,Eve,57.769230769230774,Stressed
+F,29,Friday,Morning,45.16666666666666,Stressed
+F,29,Friday,Night,63.04,Very Stressed
+F,29,Friday,Noon,54.83333333333334,Stressed
+F,29,Monday,Eve,61.185185185185176,Very Stressed
+F,29,Monday,Morning,52.78571428571429,Stressed
+F,29,Monday,Night,57.612903225806456,Stressed
+F,29,Monday,Noon,50.89473684210525,Stressed
+F,29,Saturday,Eve,54.16666666666666,Stressed
+F,29,Saturday,Morning,49.4,Stressed
+F,29,Saturday,Night,64.53846153846153,Very Stressed
+F,29,Saturday,Noon,59.4,Stressed
+F,29,Sunday,Eve,72.83333333333333,Very Stressed
+F,29,Sunday,Morning,66.85714285714286,Very Stressed
+F,29,Sunday,Night,61.096774193548384,Very Stressed
+F,29,Sunday,Noon,65.0,Very Stressed
+F,29,Thursday,Eve,63.230769230769226,Very Stressed
+F,29,Thursday,Morning,54.0,Stressed
+F,29,Thursday,Night,65.89655172413794,Very Stressed
+F,29,Thursday,Noon,44.0,Stressed
+F,29,Tuesday,Eve,65.84615384615384,Very Stressed
+F,29,Tuesday,Morning,40.333333333333336,Stressed
+F,29,Tuesday,Night,54.60526315789475,Stressed
+F,29,Tuesday,Noon,47.157894736842096,Stressed
+F,29,Wednesday,Eve,52.9,Stressed
+F,29,Wednesday,Morning,66.85714285714286,Very Stressed
+F,29,Wednesday,Night,66.93023255813954,Very Stressed
+F,29,Wednesday,Noon,59.57142857142857,Stressed
+F,30,Friday,Eve,53.77777777777778,Stressed
+F,30,Friday,Morning,57.4,Stressed
+F,30,Friday,Night,55.54545454545455,Stressed
+F,30,Friday,Noon,54.9,Stressed
+F,30,Monday,Eve,62.407407407407405,Very Stressed
+F,30,Monday,Morning,61.714285714285715,Very Stressed
+F,30,Monday,Night,56.24242424242424,Stressed
+F,30,Monday,Noon,50.10526315789475,Stressed
+F,30,Saturday,Eve,60.875,Very Stressed
+F,30,Saturday,Morning,52.0,Stressed
+F,30,Saturday,Night,61.047619047619044,Very Stressed
+F,30,Saturday,Noon,53.0,Stressed
+F,30,Sunday,Eve,65.30769230769229,Very Stressed
+F,30,Sunday,Morning,65.0,Very Stressed
+F,30,Sunday,Night,53.39130434782609,Stressed
+F,30,Sunday,Noon,67.85714285714286,Very Stressed
+F,30,Thursday,Eve,54.842105263157904,Stressed
+F,30,Thursday,Morning,56.0,Stressed
+F,30,Thursday,Night,57.18421052631579,Stressed
+F,30,Thursday,Noon,44.58823529411765,Stressed
+F,30,Tuesday,Eve,61.82352941176471,Very Stressed
+F,30,Tuesday,Morning,66.16666666666667,Very Stressed
+F,30,Tuesday,Night,59.860465116279066,Stressed
+F,30,Tuesday,Noon,46.16666666666666,Stressed
+F,30,Wednesday,Eve,64.8125,Very Stressed
+F,30,Wednesday,Morning,63.4,Very Stressed
+F,30,Wednesday,Night,62.04347826086956,Very Stressed
+F,30,Wednesday,Noon,53.0,Stressed
+F,31,Friday,Eve,47.0952380952381,Stressed
+F,31,Friday,Morning,56.8,Stressed
+F,31,Friday,Night,61.5,Very Stressed
+F,31,Friday,Noon,53.3,Stressed
+F,31,Monday,Eve,63.91666666666666,Very Stressed
+F,31,Monday,Morning,51.57142857142857,Stressed
+F,31,Monday,Night,58.6969696969697,Stressed
+F,31,Monday,Noon,51.230769230769226,Stressed
+F,31,Saturday,Eve,54.85714285714285,Stressed
+F,31,Saturday,Morning,61.875,Very Stressed
+F,31,Saturday,Night,63.925925925925924,Very Stressed
+F,31,Saturday,Noon,53.0,Stressed
+F,31,Sunday,Eve,63.45454545454545,Very Stressed
+F,31,Sunday,Morning,53.22222222222222,Stressed
+F,31,Sunday,Night,61.72413793103448,Very Stressed
+F,31,Sunday,Noon,61.555555555555564,Very Stressed
+F,31,Thursday,Eve,65.73333333333333,Very Stressed
+F,31,Thursday,Morning,54.8,Stressed
+F,31,Thursday,Night,62.20588235294117,Very Stressed
+F,31,Thursday,Noon,60.14285714285714,Very Stressed
+F,31,Tuesday,Eve,64.89473684210526,Very Stressed
+F,31,Tuesday,Morning,49.57142857142857,Stressed
+F,31,Tuesday,Night,58.85714285714285,Stressed
+F,31,Tuesday,Noon,61.1,Very Stressed
+F,31,Wednesday,Eve,61.27272727272727,Very Stressed
+F,31,Wednesday,Morning,63.09090909090909,Very Stressed
+F,31,Wednesday,Night,61.0,Very Stressed
+F,31,Wednesday,Noon,51.0,Stressed
+F,32,Friday,Eve,58.24137931034482,Stressed
+F,32,Friday,Morning,58.0,Stressed
+F,32,Friday,Night,60.10714285714285,Very Stressed
+F,32,Friday,Noon,67.45454545454545,Very Stressed
+F,32,Monday,Eve,53.93333333333333,Stressed
+F,32,Monday,Morning,74.0,Very Stressed
+F,32,Monday,Night,59.25714285714286,Stressed
+F,32,Monday,Noon,52.06666666666667,Stressed
+F,32,Saturday,Eve,57.54545454545455,Stressed
+F,32,Saturday,Morning,74.66666666666667,Very Stressed
+F,32,Saturday,Night,63.2,Very Stressed
+F,32,Saturday,Noon,55.66666666666666,Stressed
+F,32,Sunday,Eve,60.0,Stressed
+F,32,Sunday,Morning,65.75,Very Stressed
+F,32,Sunday,Night,66.3,Very Stressed
+F,32,Sunday,Noon,65.125,Very Stressed
+F,32,Thursday,Eve,59.764705882352935,Stressed
+F,32,Thursday,Morning,63.75,Very Stressed
+F,32,Thursday,Night,50.441176470588225,Stressed
+F,32,Thursday,Noon,52.16666666666666,Stressed
+F,32,Tuesday,Eve,62.82352941176471,Very Stressed
+F,32,Tuesday,Morning,41.09090909090909,Stressed
+F,32,Tuesday,Night,56.15625,Stressed
+F,32,Tuesday,Noon,52.25,Stressed
+F,32,Wednesday,Eve,65.9090909090909,Very Stressed
+F,32,Wednesday,Morning,52.5,Stressed
+F,32,Wednesday,Night,65.76470588235293,Very Stressed
+F,32,Wednesday,Noon,57.5,Stressed
+F,33,Friday,Eve,58.81818181818182,Stressed
+F,33,Friday,Morning,55.0,Stressed
+F,33,Friday,Night,59.70833333333334,Stressed
+F,33,Friday,Noon,56.90909090909091,Stressed
+F,33,Monday,Eve,57.230769230769226,Stressed
+F,33,Monday,Morning,44.0,Stressed
+F,33,Monday,Night,58.926829268292686,Stressed
+F,33,Monday,Noon,46.529411764705884,Stressed
+F,33,Saturday,Eve,61.6,Very Stressed
+F,33,Saturday,Morning,62.25,Very Stressed
+F,33,Saturday,Night,65.31818181818181,Very Stressed
+F,33,Saturday,Noon,62.38888888888889,Very Stressed
+F,33,Sunday,Eve,65.0,Very Stressed
+F,33,Sunday,Morning,61.14285714285714,Very Stressed
+F,33,Sunday,Night,65.54838709677419,Very Stressed
+F,33,Sunday,Noon,70.16666666666667,Very Stressed
+F,33,Thursday,Eve,65.0909090909091,Very Stressed
+F,33,Thursday,Morning,65.0,Very Stressed
+F,33,Thursday,Night,58.27586206896552,Stressed
+F,33,Thursday,Noon,50.0,Stressed
+F,33,Tuesday,Eve,60.22222222222222,Very Stressed
+F,33,Tuesday,Morning,50.18181818181818,Stressed
+F,33,Tuesday,Night,57.1081081081081,Stressed
+F,33,Tuesday,Noon,48.46153846153846,Stressed
+F,33,Wednesday,Eve,57.52173913043478,Stressed
+F,33,Wednesday,Morning,57.45454545454545,Stressed
+F,33,Wednesday,Night,58.70588235294117,Stressed
+F,33,Wednesday,Noon,52.0,Stressed
+F,34,Friday,Eve,56.523809523809526,Stressed
+F,34,Friday,Morning,42.75,Stressed
+F,34,Friday,Night,64.34482758620689,Very Stressed
+F,34,Friday,Noon,49.91666666666666,Stressed
+F,34,Monday,Eve,64.42105263157895,Very Stressed
+F,34,Monday,Morning,43.9,Stressed
+F,34,Monday,Night,53.620689655172406,Stressed
+F,34,Monday,Noon,57.57142857142857,Stressed
+F,34,Saturday,Eve,54.30769230769231,Stressed
+F,34,Saturday,Morning,56.58333333333334,Stressed
+F,34,Saturday,Night,57.35714285714285,Stressed
+F,34,Saturday,Noon,56.714285714285715,Stressed
+F,34,Sunday,Eve,60.111111111111114,Very Stressed
+F,34,Sunday,Morning,63.77777777777778,Very Stressed
+F,34,Sunday,Night,55.470588235294116,Stressed
+F,34,Sunday,Noon,65.33333333333333,Very Stressed
+F,34,Thursday,Eve,58.33333333333334,Stressed
+F,34,Thursday,Morning,61.875,Very Stressed
+F,34,Thursday,Night,59.5609756097561,Stressed
+F,34,Thursday,Noon,57.18181818181818,Stressed
+F,34,Tuesday,Eve,67.92857142857143,Very Stressed
+F,34,Tuesday,Morning,53.714285714285715,Stressed
+F,34,Tuesday,Night,55.032258064516135,Stressed
+F,34,Tuesday,Noon,52.0,Stressed
+F,34,Wednesday,Eve,57.82608695652174,Stressed
+F,34,Wednesday,Morning,58.58333333333334,Stressed
+F,34,Wednesday,Night,58.075,Stressed
+F,34,Wednesday,Noon,58.16666666666666,Stressed
+F,35,Friday,Eve,59.230769230769226,Stressed
+F,35,Friday,Morning,48.6,Stressed
+F,35,Friday,Night,60.375,Very Stressed
+F,35,Friday,Noon,71.4,Very Stressed
+F,35,Monday,Eve,62.5,Very Stressed
+F,35,Monday,Morning,45.57142857142857,Stressed
+F,35,Monday,Night,71.61538461538461,Very Stressed
+F,35,Monday,Noon,44.5,Stressed
+F,35,Saturday,Eve,54.6,Stressed
+F,35,Saturday,Morning,55.63636363636363,Stressed
+F,35,Saturday,Night,62.09090909090909,Very Stressed
+F,35,Saturday,Noon,56.45,Stressed
+F,35,Sunday,Eve,62.4,Very Stressed
+F,35,Sunday,Morning,68.44444444444444,Very Stressed
+F,35,Sunday,Night,63.0,Very Stressed
+F,35,Sunday,Noon,60.46153846153846,Very Stressed
+F,35,Thursday,Eve,58.83333333333334,Stressed
+F,35,Thursday,Morning,65.4,Very Stressed
+F,35,Thursday,Night,66.46341463414635,Very Stressed
+F,35,Thursday,Noon,46.555555555555564,Stressed
+F,35,Tuesday,Eve,59.83333333333334,Stressed
+F,35,Tuesday,Morning,34.2,Alright
+F,35,Tuesday,Night,58.12121212121213,Stressed
+F,35,Tuesday,Noon,55.846153846153854,Stressed
+F,35,Wednesday,Eve,51.75,Stressed
+F,35,Wednesday,Morning,52.81818181818182,Stressed
+F,35,Wednesday,Night,63.194444444444436,Very Stressed
+F,35,Wednesday,Noon,54.14285714285714,Stressed
+F,36,Friday,Eve,54.125,Stressed
+F,36,Friday,Morning,58.0,Stressed
+F,36,Friday,Night,64.16666666666667,Very Stressed
+F,36,Friday,Noon,68.75,Very Stressed
+F,36,Monday,Eve,73.5,Very Stressed
+F,36,Monday,Morning,56.09090909090909,Stressed
+F,36,Monday,Night,60.33333333333334,Very Stressed
+F,36,Monday,Noon,58.2,Stressed
+F,36,Saturday,Eve,63.0,Very Stressed
+F,36,Saturday,Morning,51.2,Stressed
+F,36,Saturday,Night,68.84615384615384,Very Stressed
+F,36,Saturday,Noon,54.2,Stressed
+F,36,Sunday,Eve,46.66666666666666,Stressed
+F,36,Sunday,Morning,37.75,Alright
+F,36,Sunday,Night,61.53846153846154,Very Stressed
+F,36,Sunday,Noon,60.25,Very Stressed
+F,36,Thursday,Eve,55.83333333333334,Stressed
+F,36,Thursday,Morning,57.77777777777778,Stressed
+F,36,Thursday,Night,57.73333333333333,Stressed
+F,36,Thursday,Noon,45.58333333333334,Stressed
+F,36,Tuesday,Eve,68.625,Very Stressed
+F,36,Tuesday,Morning,94.0,Exhausted
+F,36,Tuesday,Night,55.0,Stressed
+F,36,Tuesday,Noon,64.0,Very Stressed
+F,36,Wednesday,Eve,37.8,Alright
+F,36,Wednesday,Morning,13.5,Great
+F,36,Wednesday,Night,58.4375,Stressed
+F,36,Wednesday,Noon,65.0,Very Stressed
+F,37,Friday,Eve,58.83333333333334,Stressed
+F,37,Friday,Morning,61.33333333333334,Very Stressed
+F,37,Friday,Night,64.75,Very Stressed
+F,37,Friday,Noon,60.0,Stressed
+F,37,Monday,Eve,60.25,Very Stressed
+F,37,Monday,Morning,59.66666666666666,Stressed
+F,37,Monday,Night,54.529411764705884,Stressed
+F,37,Monday,Noon,46.3,Stressed
+F,37,Saturday,Eve,63.5,Very Stressed
+F,37,Saturday,Morning,56.2,Stressed
+F,37,Saturday,Night,64.5,Very Stressed
+F,37,Saturday,Noon,58.27272727272727,Stressed
+F,37,Sunday,Eve,65.33333333333333,Very Stressed
+F,37,Sunday,Morning,37.5,Alright
+F,37,Sunday,Night,60.90909090909091,Very Stressed
+F,37,Sunday,Noon,65.0,Very Stressed
+F,37,Thursday,Eve,65.0,Very Stressed
+F,37,Thursday,Morning,53.57142857142857,Stressed
+F,37,Thursday,Night,60.69230769230769,Very Stressed
+F,37,Thursday,Noon,69.0,Very Stressed
+F,37,Tuesday,Eve,65.0,Very Stressed
+F,37,Tuesday,Morning,62.0,Very Stressed
+F,37,Tuesday,Night,65.0,Very Stressed
+F,37,Tuesday,Noon,54.0,Stressed
+F,37,Wednesday,Eve,61.16666666666666,Very Stressed
+F,37,Wednesday,Morning,50.4,Stressed
+F,37,Wednesday,Night,57.81818181818182,Stressed
+F,37,Wednesday,Noon,61.4,Very Stressed
+F,38,Friday,Eve,74.0,Very Stressed
+F,38,Friday,Morning,65.0,Very Stressed
+F,38,Friday,Night,68.375,Very Stressed
+F,38,Friday,Noon,40.0,Alright
+F,38,Monday,Eve,66.75,Very Stressed
+F,38,Monday,Morning,63.5,Very Stressed
+F,38,Monday,Night,58.33333333333334,Stressed
+F,38,Monday,Noon,42.66666666666666,Stressed
+F,38,Saturday,Eve,58.66666666666666,Stressed
+F,38,Saturday,Morning,47.0,Stressed
+F,38,Saturday,Night,57.0,Stressed
+F,38,Saturday,Noon,53.0,Stressed
+F,38,Sunday,Eve,65.0,Very Stressed
+F,38,Sunday,Morning,65.0,Very Stressed
+F,38,Sunday,Night,52.0,Stressed
+F,38,Sunday,Noon,46.5,Stressed
+F,38,Thursday,Eve,55.5,Stressed
+F,38,Thursday,Morning,60.0,Stressed
+F,38,Thursday,Night,57.148148148148145,Stressed
+F,38,Thursday,Noon,43.73333333333333,Stressed
+F,38,Tuesday,Eve,58.4,Stressed
+F,38,Tuesday,Morning,61.5,Very Stressed
+F,38,Tuesday,Night,64.1111111111111,Very Stressed
+F,38,Tuesday,Noon,58.0,Stressed
+F,38,Wednesday,Eve,61.77777777777778,Very Stressed
+F,38,Wednesday,Morning,39.0,Alright
+F,38,Wednesday,Night,52.54545454545455,Stressed
+F,38,Wednesday,Noon,64.6,Very Stressed
+F,39,Friday,Eve,59.18181818181818,Stressed
+F,39,Friday,Morning,65.0,Very Stressed
+F,39,Friday,Night,60.368421052631575,Very Stressed
+F,39,Friday,Noon,73.0,Very Stressed
+F,39,Monday,Eve,43.5,Stressed
+F,39,Monday,Morning,37.5,Alright
+F,39,Monday,Night,50.5,Stressed
+F,39,Monday,Noon,58.66666666666666,Stressed
+F,39,Saturday,Eve,58.125,Stressed
+F,39,Saturday,Morning,56.33333333333334,Stressed
+F,39,Saturday,Night,65.25,Very Stressed
+F,39,Saturday,Noon,62.5,Very Stressed
+F,39,Sunday,Eve,46.66666666666666,Stressed
+F,39,Sunday,Morning,65.33333333333333,Very Stressed
+F,39,Sunday,Night,65.18181818181819,Very Stressed
+F,39,Sunday,Noon,65.0,Very Stressed
+F,39,Thursday,Eve,54.6,Stressed
+F,39,Thursday,Morning,58.66666666666666,Stressed
+F,39,Thursday,Night,62.89655172413793,Very Stressed
+F,39,Thursday,Noon,55.91666666666666,Stressed
+F,39,Tuesday,Eve,69.44444444444444,Very Stressed
+F,39,Tuesday,Morning,46.0,Stressed
+F,39,Tuesday,Night,49.53333333333333,Stressed
+F,39,Tuesday,Noon,65.0,Very Stressed
+F,39,Wednesday,Eve,64.55555555555556,Very Stressed
+F,39,Wednesday,Morning,10.0,Great
+F,39,Wednesday,Night,59.714285714285715,Stressed
+F,39,Wednesday,Noon,47.714285714285715,Stressed
+F,40,Friday,Eve,61.09090909090909,Very Stressed
+F,40,Friday,Morning,66.25,Very Stressed
+F,40,Friday,Night,67.04761904761905,Very Stressed
+F,40,Friday,Noon,77.2,Very Stressed
+F,40,Monday,Eve,63.111111111111114,Very Stressed
+F,40,Monday,Morning,66.0,Very Stressed
+F,40,Monday,Night,54.85,Stressed
+F,40,Monday,Noon,65.1,Very Stressed
+F,40,Saturday,Eve,55.57142857142857,Stressed
+F,40,Saturday,Morning,58.66666666666666,Stressed
+F,40,Saturday,Night,58.41666666666666,Stressed
+F,40,Saturday,Noon,48.85714285714285,Stressed
+F,40,Sunday,Eve,57.14285714285714,Stressed
+F,40,Sunday,Morning,65.0,Very Stressed
+F,40,Sunday,Night,64.22222222222223,Very Stressed
+F,40,Sunday,Noon,65.25,Very Stressed
+F,40,Thursday,Eve,57.875,Stressed
+F,40,Thursday,Morning,52.66666666666666,Stressed
+F,40,Thursday,Night,52.6875,Stressed
+F,40,Thursday,Noon,56.625,Stressed
+F,40,Tuesday,Eve,65.75,Very Stressed
+F,40,Tuesday,Morning,69.0,Very Stressed
+F,40,Tuesday,Night,55.90909090909091,Stressed
+F,40,Tuesday,Noon,50.5,Stressed
+F,40,Wednesday,Eve,61.75,Very Stressed
+F,40,Wednesday,Morning,52.33333333333334,Stressed
+F,40,Wednesday,Night,59.625,Stressed
+F,40,Wednesday,Noon,71.2,Very Stressed
+F,41,Friday,Eve,53.42857142857143,Stressed
+F,41,Friday,Morning,66.33333333333333,Very Stressed
+F,41,Friday,Night,63.22222222222222,Very Stressed
+F,41,Friday,Noon,44.33333333333334,Stressed
+F,41,Monday,Eve,55.875,Stressed
+F,41,Monday,Morning,28.33333333333333,Alright
+F,41,Monday,Night,50.25,Stressed
+F,41,Monday,Noon,63.375,Very Stressed
+F,41,Saturday,Eve,64.25,Very Stressed
+F,41,Saturday,Morning,65.0,Very Stressed
+F,41,Saturday,Night,62.85714285714285,Very Stressed
+F,41,Saturday,Noon,57.30769230769231,Stressed
+F,41,Sunday,Eve,49.0,Stressed
+F,41,Sunday,Morning,65.2,Very Stressed
+F,41,Sunday,Night,46.57142857142857,Stressed
+F,41,Sunday,Noon,46.66666666666666,Stressed
+F,41,Thursday,Eve,61.57142857142857,Very Stressed
+F,41,Thursday,Morning,65.83333333333333,Very Stressed
+F,41,Thursday,Night,61.72222222222222,Very Stressed
+F,41,Thursday,Noon,49.41666666666666,Stressed
+F,41,Tuesday,Eve,65.0,Very Stressed
+F,41,Tuesday,Morning,60.0,Stressed
+F,41,Tuesday,Night,64.05555555555556,Very Stressed
+F,41,Tuesday,Noon,57.75,Stressed
+F,41,Wednesday,Eve,67.125,Very Stressed
+F,41,Wednesday,Morning,86.0,Exhausted
+F,41,Wednesday,Night,68.05555555555556,Very Stressed
+F,41,Wednesday,Noon,60.2,Very Stressed
+F,42,Friday,Eve,52.0,Stressed
+F,42,Friday,Morning,64.0,Very Stressed
+F,42,Friday,Night,55.0,Stressed
+F,42,Friday,Noon,53.5,Stressed
+F,42,Monday,Eve,60.0,Stressed
+F,42,Monday,Morning,62.54545454545455,Very Stressed
+F,42,Monday,Night,52.30769230769231,Stressed
+F,42,Monday,Noon,59.66666666666666,Stressed
+F,42,Saturday,Eve,59.64285714285714,Stressed
+F,42,Saturday,Morning,66.75,Very Stressed
+F,42,Saturday,Night,62.18181818181818,Very Stressed
+F,42,Saturday,Noon,51.2,Stressed
+F,42,Sunday,Eve,74.66666666666667,Very Stressed
+F,42,Sunday,Morning,65.0,Very Stressed
+F,42,Sunday,Night,66.0,Very Stressed
+F,42,Sunday,Noon,65.0,Very Stressed
+F,42,Thursday,Eve,55.57142857142857,Stressed
+F,42,Thursday,Morning,68.75,Very Stressed
+F,42,Thursday,Night,66.0,Very Stressed
+F,42,Thursday,Noon,51.75,Stressed
+F,42,Tuesday,Eve,66.0,Very Stressed
+F,42,Tuesday,Morning,37.75,Alright
+F,42,Tuesday,Night,57.66666666666666,Stressed
+F,42,Tuesday,Noon,49.5,Stressed
+F,42,Wednesday,Eve,53.4,Stressed
+F,42,Wednesday,Morning,66.33333333333333,Very Stressed
+F,42,Wednesday,Night,56.8,Stressed
+F,42,Wednesday,Noon,76.0,Very Stressed
+F,43,Friday,Eve,59.26666666666666,Stressed
+F,43,Friday,Morning,62.5,Very Stressed
+F,43,Friday,Night,60.57142857142857,Very Stressed
+F,43,Friday,Noon,55.6,Stressed
+F,43,Monday,Eve,61.83333333333334,Very Stressed
+F,43,Monday,Morning,61.2,Very Stressed
+F,43,Monday,Night,58.58333333333334,Stressed
+F,43,Monday,Noon,72.6,Very Stressed
+F,43,Saturday,Eve,63.111111111111114,Very Stressed
+F,43,Saturday,Morning,10.0,Great
+F,43,Saturday,Night,69.85714285714286,Very Stressed
+F,43,Saturday,Noon,56.6,Stressed
+F,43,Sunday,Eve,65.0,Very Stressed
+F,43,Sunday,Morning,65.0,Very Stressed
+F,43,Sunday,Night,58.85714285714285,Stressed
+F,43,Sunday,Noon,55.0,Stressed
+F,43,Thursday,Eve,58.66666666666666,Stressed
+F,43,Thursday,Morning,54.0,Stressed
+F,43,Thursday,Night,63.57894736842106,Very Stressed
+F,43,Thursday,Noon,37.833333333333336,Alright
+F,43,Tuesday,Eve,72.5,Very Stressed
+F,43,Tuesday,Morning,36.0,Alright
+F,43,Tuesday,Night,59.57142857142857,Stressed
+F,43,Tuesday,Noon,56.2,Stressed
+F,43,Wednesday,Eve,67.0,Very Stressed
+F,43,Wednesday,Morning,40.0,Alright
+F,43,Wednesday,Night,64.10526315789474,Very Stressed
+F,43,Wednesday,Noon,79.5,Very Stressed
+F,44,Friday,Eve,56.63636363636363,Stressed
+F,44,Friday,Morning,60.0,Stressed
+F,44,Friday,Night,64.0,Very Stressed
+F,44,Friday,Noon,54.16666666666666,Stressed
+F,44,Monday,Eve,57.85714285714285,Stressed
+F,44,Monday,Morning,58.88888888888889,Stressed
+F,44,Monday,Night,48.78571428571429,Stressed
+F,44,Monday,Noon,60.3,Very Stressed
+F,44,Saturday,Eve,58.66666666666666,Stressed
+F,44,Saturday,Morning,67.66666666666667,Very Stressed
+F,44,Saturday,Night,66.07142857142857,Very Stressed
+F,44,Saturday,Noon,40.0,Alright
+F,44,Sunday,Eve,25.0,Alright
+F,44,Sunday,Morning,65.0,Very Stressed
+F,44,Sunday,Night,61.8,Very Stressed
+F,44,Sunday,Noon,60.83333333333334,Very Stressed
+F,44,Thursday,Eve,55.83333333333334,Stressed
+F,44,Thursday,Morning,68.42857142857143,Very Stressed
+F,44,Thursday,Night,61.35714285714285,Very Stressed
+F,44,Thursday,Noon,52.0,Stressed
+F,44,Tuesday,Eve,53.5,Stressed
+F,44,Tuesday,Morning,36.5,Alright
+F,44,Tuesday,Night,55.9,Stressed
+F,44,Tuesday,Noon,51.5,Stressed
+F,44,Wednesday,Eve,73.2,Very Stressed
+F,44,Wednesday,Morning,65.0,Very Stressed
+F,44,Wednesday,Night,56.91666666666666,Stressed
+F,44,Wednesday,Noon,40.0,Alright
+F,45,Friday,Eve,61.7,Very Stressed
+F,45,Friday,Morning,61.0,Very Stressed
+F,45,Friday,Night,67.6111111111111,Very Stressed
+F,45,Friday,Noon,60.4,Very Stressed
+F,45,Monday,Eve,63.33333333333334,Very Stressed
+F,45,Monday,Morning,47.0,Stressed
+F,45,Monday,Night,40.2,Stressed
+F,45,Monday,Noon,59.6,Stressed
+F,45,Saturday,Eve,64.3,Very Stressed
+F,45,Saturday,Morning,65.0,Very Stressed
+F,45,Saturday,Night,49.25,Stressed
+F,45,Saturday,Noon,62.83333333333334,Very Stressed
+F,45,Sunday,Eve,45.0,Stressed
+F,45,Sunday,Morning,65.0,Very Stressed
+F,45,Sunday,Night,65.0,Very Stressed
+F,45,Sunday,Noon,65.0,Very Stressed
+F,45,Thursday,Eve,52.66666666666666,Stressed
+F,45,Thursday,Morning,61.33333333333334,Very Stressed
+F,45,Thursday,Night,65.4375,Very Stressed
+F,45,Thursday,Noon,69.0,Very Stressed
+F,45,Tuesday,Eve,66.3,Very Stressed
+F,45,Tuesday,Morning,53.66666666666666,Stressed
+F,45,Tuesday,Night,62.75,Very Stressed
+F,45,Tuesday,Noon,58.66666666666666,Stressed
+F,45,Wednesday,Eve,62.57142857142857,Very Stressed
+F,45,Wednesday,Morning,55.5,Stressed
+F,45,Wednesday,Night,56.111111111111114,Stressed
+F,45,Wednesday,Noon,60.25,Very Stressed
+F,46,Friday,Eve,59.75,Stressed
+F,46,Friday,Morning,64.5,Very Stressed
+F,46,Friday,Night,62.055555555555564,Very Stressed
+F,46,Friday,Noon,58.111111111111114,Stressed
+F,46,Monday,Eve,67.0,Very Stressed
+F,46,Monday,Morning,40.25,Stressed
+F,46,Monday,Night,57.611111111111114,Stressed
+F,46,Monday,Noon,38.3,Alright
+F,46,Saturday,Eve,68.33333333333333,Very Stressed
+F,46,Saturday,Morning,57.25,Stressed
+F,46,Saturday,Night,62.5,Very Stressed
+F,46,Saturday,Noon,54.125,Stressed
+F,46,Sunday,Eve,74.0,Very Stressed
+F,46,Sunday,Morning,70.0,Very Stressed
+F,46,Sunday,Night,61.64285714285714,Very Stressed
+F,46,Sunday,Noon,61.0,Very Stressed
+F,46,Thursday,Eve,64.5,Very Stressed
+F,46,Thursday,Morning,43.5,Stressed
+F,46,Thursday,Night,61.58823529411765,Very Stressed
+F,46,Thursday,Noon,59.0,Stressed
+F,46,Tuesday,Eve,65.0,Very Stressed
+F,46,Tuesday,Morning,52.8,Stressed
+F,46,Tuesday,Night,55.214285714285715,Stressed
+F,46,Tuesday,Noon,56.25,Stressed
+F,46,Wednesday,Eve,64.85714285714286,Very Stressed
+F,46,Wednesday,Morning,46.66666666666666,Stressed
+F,46,Wednesday,Night,60.555555555555564,Very Stressed
+F,46,Wednesday,Noon,46.66666666666666,Stressed
+F,47,Friday,Eve,56.81818181818182,Stressed
+F,47,Friday,Morning,55.8,Stressed
+F,47,Friday,Night,58.0,Stressed
+F,47,Friday,Noon,68.33333333333333,Very Stressed
+F,47,Monday,Eve,56.14285714285714,Stressed
+F,47,Monday,Morning,65.0,Very Stressed
+F,47,Monday,Night,55.714285714285715,Stressed
+F,47,Monday,Noon,55.4,Stressed
+F,47,Saturday,Eve,62.444444444444436,Very Stressed
+F,47,Saturday,Morning,48.33333333333334,Stressed
+F,47,Saturday,Night,57.75,Stressed
+F,47,Saturday,Noon,54.85714285714285,Stressed
+F,47,Sunday,Eve,59.8,Stressed
+F,47,Sunday,Morning,65.0,Very Stressed
+F,47,Sunday,Night,56.5,Stressed
+F,47,Sunday,Noon,72.8,Very Stressed
+F,47,Thursday,Eve,66.8,Very Stressed
+F,47,Thursday,Morning,10.0,Great
+F,47,Thursday,Night,62.653846153846146,Very Stressed
+F,47,Thursday,Noon,39.77777777777778,Alright
+F,47,Tuesday,Eve,63.75,Very Stressed
+F,47,Tuesday,Morning,62.0,Very Stressed
+F,47,Tuesday,Night,44.75,Stressed
+F,47,Tuesday,Noon,46.8,Stressed
+F,47,Wednesday,Eve,57.14285714285714,Stressed
+F,47,Wednesday,Morning,71.0,Very Stressed
+F,47,Wednesday,Night,59.11764705882353,Stressed
+F,47,Wednesday,Noon,63.0,Very Stressed
+F,48,Friday,Eve,52.81818181818182,Stressed
+F,48,Friday,Morning,65.0,Very Stressed
+F,48,Friday,Night,64.0,Very Stressed
+F,48,Friday,Noon,53.0,Stressed
+F,48,Monday,Eve,57.0,Stressed
+F,48,Monday,Morning,56.8,Stressed
+F,48,Monday,Night,49.25,Stressed
+F,48,Monday,Noon,52.66666666666666,Stressed
+F,48,Saturday,Eve,67.25,Very Stressed
+F,48,Saturday,Morning,54.66666666666666,Stressed
+F,48,Saturday,Night,55.5,Stressed
+F,48,Saturday,Noon,48.42857142857143,Stressed
+F,48,Sunday,Eve,51.25,Stressed
+F,48,Sunday,Morning,65.0,Very Stressed
+F,48,Sunday,Night,63.16666666666666,Very Stressed
+F,48,Sunday,Noon,65.0,Very Stressed
+F,48,Thursday,Eve,61.714285714285715,Very Stressed
+F,48,Thursday,Morning,58.5,Stressed
+F,48,Thursday,Night,53.96153846153846,Stressed
+F,48,Thursday,Noon,47.85714285714285,Stressed
+F,48,Tuesday,Eve,65.0,Very Stressed
+F,48,Tuesday,Morning,37.5,Alright
+F,48,Tuesday,Night,57.75,Stressed
+F,48,Tuesday,Noon,67.83333333333333,Very Stressed
+F,48,Wednesday,Eve,56.42857142857143,Stressed
+F,48,Wednesday,Morning,30.0,Alright
+F,48,Wednesday,Night,68.10526315789474,Very Stressed
+F,48,Wednesday,Noon,65.5,Very Stressed
+F,49,Friday,Eve,59.714285714285715,Stressed
+F,49,Friday,Morning,60.0,Stressed
+F,49,Friday,Night,63.631578947368425,Very Stressed
+F,49,Friday,Noon,51.5,Stressed
+F,49,Monday,Eve,59.75,Stressed
+F,49,Monday,Morning,64.5,Very Stressed
+F,49,Monday,Night,50.214285714285715,Stressed
+F,49,Monday,Noon,55.5,Stressed
+F,49,Saturday,Eve,46.25,Stressed
+F,49,Saturday,Morning,40.0,Alright
+F,49,Saturday,Night,66.9,Very Stressed
+F,49,Saturday,Noon,52.28571428571429,Stressed
+F,49,Sunday,Eve,65.0,Very Stressed
+F,49,Sunday,Morning,66.0,Very Stressed
+F,49,Sunday,Night,63.555555555555564,Very Stressed
+F,49,Sunday,Noon,37.5,Alright
+F,49,Thursday,Eve,62.0,Very Stressed
+F,49,Thursday,Morning,60.83333333333334,Very Stressed
+F,49,Thursday,Night,61.941176470588225,Very Stressed
+F,49,Thursday,Noon,53.54545454545455,Stressed
+F,49,Tuesday,Eve,60.25,Very Stressed
+F,49,Tuesday,Night,52.16666666666666,Stressed
+F,49,Tuesday,Noon,60.16666666666666,Very Stressed
+F,49,Wednesday,Eve,61.42857142857143,Very Stressed
+F,49,Wednesday,Morning,25.0,Alright
+F,49,Wednesday,Night,59.78571428571429,Stressed
+F,49,Wednesday,Noon,65.0,Very Stressed
+F,50,Friday,Eve,53.13333333333333,Stressed
+F,50,Friday,Morning,56.2,Stressed
+F,50,Friday,Night,65.11764705882354,Very Stressed
+F,50,Friday,Noon,77.0,Very Stressed
+F,50,Monday,Eve,67.0,Very Stressed
+F,50,Monday,Morning,62.28571428571429,Very Stressed
+F,50,Monday,Night,58.06666666666667,Stressed
+F,50,Monday,Noon,59.66666666666666,Stressed
+F,50,Saturday,Eve,54.0,Stressed
+F,50,Saturday,Morning,49.7,Stressed
+F,50,Saturday,Night,53.22222222222222,Stressed
+F,50,Saturday,Noon,57.41666666666666,Stressed
+F,50,Sunday,Eve,65.0,Very Stressed
+F,50,Sunday,Morning,51.33333333333334,Stressed
+F,50,Sunday,Night,55.41666666666666,Stressed
+F,50,Sunday,Noon,58.75,Stressed
+F,50,Thursday,Eve,59.42857142857143,Stressed
+F,50,Thursday,Morning,65.0,Very Stressed
+F,50,Thursday,Night,58.5,Stressed
+F,50,Thursday,Noon,60.8,Very Stressed
+F,50,Tuesday,Eve,64.0,Very Stressed
+F,50,Tuesday,Morning,55.33333333333334,Stressed
+F,50,Tuesday,Night,60.28571428571429,Very Stressed
+F,50,Tuesday,Noon,49.5,Stressed
+F,50,Wednesday,Eve,56.07692307692307,Stressed
+F,50,Wednesday,Morning,67.66666666666667,Very Stressed
+F,50,Wednesday,Night,62.153846153846146,Very Stressed
+F,50,Wednesday,Noon,54.0,Stressed
+F,51,Friday,Eve,62.0,Very Stressed
+F,51,Friday,Night,65.0,Very Stressed
+F,51,Monday,Morning,37.5,Alright
+F,51,Monday,Night,63.0,Very Stressed
+F,51,Monday,Noon,37.5,Alright
+F,51,Saturday,Night,65.0,Very Stressed
+F,51,Saturday,Noon,65.5,Very Stressed
+F,51,Sunday,Eve,65.0,Very Stressed
+F,51,Sunday,Night,65.0,Very Stressed
+F,51,Thursday,Eve,10.0,Great
+F,51,Thursday,Morning,65.0,Very Stressed
+F,51,Thursday,Night,92.0,Exhausted
+F,51,Thursday,Noon,40.0,Alright
+F,51,Tuesday,Night,56.33333333333334,Stressed
+F,51,Tuesday,Noon,62.0,Very Stressed
+F,51,Wednesday,Eve,46.0,Stressed
+F,51,Wednesday,Morning,65.0,Very Stressed
+F,51,Wednesday,Night,62.75,Very Stressed
+F,52,Friday,Eve,52.33333333333334,Stressed
+F,52,Friday,Night,65.0,Very Stressed
+F,52,Monday,Eve,65.5,Very Stressed
+F,52,Monday,Morning,69.0,Very Stressed
+F,52,Monday,Night,68.4,Very Stressed
+F,52,Monday,Noon,55.0,Stressed
+F,52,Saturday,Night,65.0,Very Stressed
+F,52,Saturday,Noon,55.0,Stressed
+F,52,Sunday,Morning,65.0,Very Stressed
+F,52,Sunday,Night,96.0,Exhausted
+F,52,Sunday,Noon,84.0,Exhausted
+F,52,Thursday,Night,66.83333333333333,Very Stressed
+F,52,Thursday,Noon,42.0,Stressed
+F,52,Tuesday,Eve,67.0,Very Stressed
+F,52,Tuesday,Morning,10.0,Great
+F,52,Tuesday,Night,63.0,Very Stressed
+F,52,Tuesday,Noon,48.25,Stressed
+F,52,Wednesday,Night,71.75,Very Stressed
+F,53,Friday,Morning,46.0,Stressed
+F,53,Friday,Night,71.0,Very Stressed
+F,53,Friday,Noon,52.0,Stressed
+F,53,Monday,Morning,40.0,Alright
+F,53,Monday,Night,65.5,Very Stressed
+F,53,Monday,Noon,52.0,Stressed
+F,53,Saturday,Morning,70.5,Very Stressed
+F,53,Saturday,Night,63.75,Very Stressed
+F,53,Saturday,Noon,54.0,Stressed
+F,53,Sunday,Night,65.0,Very Stressed
+F,53,Tuesday,Morning,43.5,Stressed
+F,53,Tuesday,Noon,47.5,Stressed
+F,53,Wednesday,Eve,65.0,Very Stressed
+F,53,Wednesday,Morning,65.0,Very Stressed
+F,53,Wednesday,Night,73.0,Very Stressed
+F,54,Friday,Eve,62.0,Very Stressed
+F,54,Friday,Morning,65.0,Very Stressed
+F,54,Monday,Eve,65.0,Very Stressed
+F,54,Monday,Night,65.5,Very Stressed
+F,54,Monday,Noon,54.0,Stressed
+F,54,Saturday,Eve,10.0,Great
+F,54,Saturday,Night,40.0,Alright
+F,54,Saturday,Noon,62.4,Very Stressed
+F,54,Sunday,Eve,10.0,Great
+F,54,Sunday,Night,65.0,Very Stressed
+F,54,Sunday,Noon,65.0,Very Stressed
+F,54,Thursday,Morning,65.0,Very Stressed
+F,54,Thursday,Night,10.0,Great
+F,54,Thursday,Noon,54.33333333333334,Stressed
+F,54,Tuesday,Eve,36.0,Alright
+F,54,Tuesday,Morning,54.0,Stressed
+F,54,Tuesday,Night,61.2,Very Stressed
+F,54,Tuesday,Noon,62.0,Very Stressed
+F,54,Wednesday,Morning,65.0,Very Stressed
+F,54,Wednesday,Night,65.0,Very Stressed
+F,55,Friday,Eve,59.0,Stressed
+F,55,Friday,Morning,40.0,Alright
+F,55,Friday,Night,66.2,Very Stressed
+F,55,Monday,Eve,65.0,Very Stressed
+F,55,Monday,Morning,65.0,Very Stressed
+F,55,Monday,Night,10.0,Great
+F,55,Monday,Noon,94.0,Exhausted
+F,55,Saturday,Night,65.0,Very Stressed
+F,55,Saturday,Noon,57.66666666666666,Stressed
+F,55,Sunday,Night,65.0,Very Stressed
+F,55,Sunday,Noon,65.0,Very Stressed
+F,55,Thursday,Eve,65.0,Very Stressed
+F,55,Thursday,Night,65.0,Very Stressed
+F,55,Tuesday,Morning,65.0,Very Stressed
+F,55,Tuesday,Night,55.5,Stressed
+F,55,Tuesday,Noon,58.0,Stressed
+F,55,Wednesday,Eve,65.0,Very Stressed
+F,55,Wednesday,Night,61.66666666666666,Very Stressed
+F,56,Friday,Eve,38.0,Alright
+F,56,Friday,Morning,65.0,Very Stressed
+F,56,Friday,Noon,52.0,Stressed
+F,56,Monday,Eve,65.0,Very Stressed
+F,56,Monday,Morning,65.0,Very Stressed
+F,56,Monday,Night,56.33333333333334,Stressed
+F,56,Monday,Noon,62.0,Very Stressed
+F,56,Saturday,Night,62.0,Very Stressed
+F,56,Saturday,Noon,55.5,Stressed
+F,56,Sunday,Eve,40.0,Alright
+F,56,Sunday,Noon,65.0,Very Stressed
+F,56,Thursday,Eve,65.0,Very Stressed
+F,56,Thursday,Night,65.0,Very Stressed
+F,56,Thursday,Noon,79.5,Very Stressed
+F,56,Tuesday,Eve,65.0,Very Stressed
+F,56,Tuesday,Noon,66.5,Very Stressed
+F,56,Wednesday,Eve,58.0,Stressed
+F,56,Wednesday,Morning,43.0,Stressed
+F,56,Wednesday,Night,65.0,Very Stressed
+F,56,Wednesday,Noon,65.0,Very Stressed
+F,57,Friday,Eve,63.5,Very Stressed
+F,57,Friday,Morning,65.0,Very Stressed
+F,57,Friday,Night,10.0,Great
+F,57,Monday,Eve,54.66666666666666,Stressed
+F,57,Monday,Morning,65.0,Very Stressed
+F,57,Monday,Night,40.0,Alright
+F,57,Monday,Noon,67.66666666666667,Very Stressed
+F,57,Saturday,Eve,52.5,Stressed
+F,57,Saturday,Morning,96.0,Exhausted
+F,57,Saturday,Night,48.0,Stressed
+F,57,Thursday,Morning,65.0,Very Stressed
+F,57,Thursday,Night,78.0,Very Stressed
+F,57,Tuesday,Night,43.66666666666666,Stressed
+F,57,Wednesday,Eve,55.5,Stressed
+F,57,Wednesday,Night,65.0,Very Stressed
+F,57,Wednesday,Noon,66.0,Very Stressed
+F,58,Friday,Eve,65.0,Very Stressed
+F,58,Friday,Morning,65.0,Very Stressed
+F,58,Friday,Night,55.0,Stressed
+F,58,Monday,Eve,68.5,Very Stressed
+F,58,Monday,Noon,55.0,Stressed
+F,58,Saturday,Night,57.2,Stressed
+F,58,Sunday,Eve,65.0,Very Stressed
+F,58,Sunday,Morning,65.0,Very Stressed
+F,58,Sunday,Night,47.0,Stressed
+F,58,Sunday,Noon,92.0,Exhausted
+F,58,Thursday,Morning,65.0,Very Stressed
+F,58,Thursday,Night,100.0,Exhausted
+F,58,Thursday,Noon,65.0,Very Stressed
+F,58,Tuesday,Eve,68.25,Very Stressed
+F,58,Tuesday,Morning,40.0,Alright
+F,58,Tuesday,Night,52.0,Stressed
+F,58,Tuesday,Noon,66.0,Very Stressed
+F,58,Wednesday,Morning,58.33333333333334,Stressed
+F,58,Wednesday,Night,65.33333333333333,Very Stressed
+F,58,Wednesday,Noon,52.5,Stressed
+F,59,Friday,Eve,63.5,Very Stressed
+F,59,Friday,Night,65.0,Very Stressed
+F,59,Friday,Noon,55.5,Stressed
+F,59,Monday,Eve,65.0,Very Stressed
+F,59,Monday,Night,56.2,Stressed
+F,59,Monday,Noon,40.0,Alright
+F,59,Saturday,Eve,62.75,Very Stressed
+F,59,Saturday,Noon,52.0,Stressed
+F,59,Sunday,Morning,65.66666666666667,Very Stressed
+F,59,Sunday,Night,66.0,Very Stressed
+F,59,Thursday,Morning,65.0,Very Stressed
+F,59,Thursday,Night,56.33333333333334,Stressed
+F,59,Thursday,Noon,72.0,Very Stressed
+F,59,Tuesday,Eve,65.5,Very Stressed
+F,59,Tuesday,Morning,94.0,Exhausted
+F,59,Tuesday,Night,52.5,Stressed
+F,59,Tuesday,Noon,65.0,Very Stressed
+F,59,Wednesday,Eve,66.0,Very Stressed
+F,59,Wednesday,Night,43.0,Stressed
+F,60,Friday,Eve,52.0,Stressed
+F,60,Friday,Night,49.5,Stressed
+F,60,Friday,Noon,52.0,Stressed
+F,60,Monday,Night,65.0,Very Stressed
+F,60,Monday,Noon,55.33333333333334,Stressed
+F,60,Saturday,Night,64.0,Very Stressed
+F,60,Saturday,Noon,52.0,Stressed
+F,60,Sunday,Night,52.25,Stressed
+F,60,Thursday,Eve,37.5,Alright
+F,60,Thursday,Morning,67.0,Very Stressed
+F,60,Thursday,Night,51.0,Stressed
+F,60,Tuesday,Morning,38.0,Alright
+F,60,Tuesday,Night,51.375,Stressed
+F,60,Tuesday,Noon,40.333333333333336,Stressed
+F,60,Wednesday,Morning,96.0,Exhausted
+F,60,Wednesday,Night,52.25,Stressed
+F,60,Wednesday,Noon,52.0,Stressed
+F,61,Friday,Eve,62.25,Very Stressed
+F,61,Friday,Night,51.0,Stressed
+F,61,Monday,Eve,65.0,Very Stressed
+F,61,Monday,Morning,10.0,Great
+F,61,Monday,Night,52.25,Stressed
+F,61,Monday,Noon,94.0,Exhausted
+F,61,Saturday,Night,56.25,Stressed
+F,61,Saturday,Noon,62.0,Very Stressed
+F,61,Sunday,Eve,65.0,Very Stressed
+F,61,Thursday,Eve,5.0,Great
+F,61,Thursday,Morning,65.33333333333333,Very Stressed
+F,61,Thursday,Night,78.0,Very Stressed
+F,61,Thursday,Noon,52.5,Stressed
+F,61,Tuesday,Eve,60.66666666666666,Very Stressed
+F,61,Tuesday,Morning,62.0,Very Stressed
+F,61,Tuesday,Night,65.28571428571429,Very Stressed
+F,61,Wednesday,Eve,56.0,Stressed
+F,61,Wednesday,Morning,81.5,Exhausted
+F,61,Wednesday,Night,69.0,Very Stressed
+F,62,Friday,Night,58.5,Stressed
+F,62,Monday,Night,64.0,Very Stressed
+F,62,Monday,Noon,40.0,Alright
+F,62,Saturday,Eve,46.0,Stressed
+F,62,Saturday,Night,58.66666666666666,Stressed
+F,62,Saturday,Noon,63.0,Very Stressed
+F,62,Sunday,Morning,66.0,Very Stressed
+F,62,Sunday,Night,65.0,Very Stressed
+F,62,Sunday,Noon,10.0,Great
+F,62,Thursday,Night,74.0,Very Stressed
+F,62,Tuesday,Morning,10.0,Great
+F,62,Tuesday,Night,46.0,Stressed
+F,62,Wednesday,Eve,58.66666666666666,Stressed
+F,62,Wednesday,Morning,10.0,Great
+F,62,Wednesday,Night,65.0,Very Stressed
+F,62,Wednesday,Noon,46.0,Stressed
+F,63,Friday,Morning,39.0,Alright
+F,63,Friday,Night,59.5,Stressed
+F,63,Friday,Noon,10.0,Great
+F,63,Monday,Eve,61.25,Very Stressed
+F,63,Monday,Night,89.0,Exhausted
+F,63,Monday,Noon,40.0,Alright
+F,63,Saturday,Morning,82.0,Exhausted
+F,63,Saturday,Night,65.2,Very Stressed
+F,63,Saturday,Noon,53.0,Stressed
+F,63,Thursday,Eve,65.0,Very Stressed
+F,63,Thursday,Night,10.0,Great
+F,63,Thursday,Noon,64.5,Very Stressed
+F,63,Tuesday,Morning,50.66666666666666,Stressed
+F,63,Tuesday,Night,65.25,Very Stressed
+F,63,Wednesday,Eve,65.0,Very Stressed
+F,63,Wednesday,Night,65.0,Very Stressed
+F,63,Wednesday,Noon,46.0,Stressed
+F,64,Friday,Eve,57.66666666666666,Stressed
+F,64,Friday,Night,25.0,Alright
+F,64,Monday,Eve,65.0,Very Stressed
+F,64,Monday,Morning,65.0,Very Stressed
+F,64,Monday,Night,65.0,Very Stressed
+F,64,Monday,Noon,49.5,Stressed
+F,64,Saturday,Eve,65.0,Very Stressed
+F,64,Saturday,Night,64.25,Very Stressed
+F,64,Sunday,Eve,37.5,Alright
+F,64,Sunday,Night,58.75,Stressed
+F,64,Sunday,Noon,10.0,Great
+F,64,Thursday,Eve,65.0,Very Stressed
+F,64,Thursday,Night,54.28571428571429,Stressed
+F,64,Thursday,Noon,39.0,Alright
+F,64,Tuesday,Morning,50.5,Stressed
+F,64,Tuesday,Night,50.0,Stressed
+F,64,Wednesday,Night,64.6,Very Stressed
+F,65,Friday,Eve,59.33333333333334,Stressed
+F,65,Friday,Morning,65.0,Very Stressed
+F,65,Friday,Night,55.6,Stressed
+F,65,Friday,Noon,49.0,Stressed
+F,65,Monday,Eve,65.33333333333333,Very Stressed
+F,65,Monday,Morning,66.0,Very Stressed
+F,65,Monday,Night,64.0,Very Stressed
+F,65,Monday,Noon,53.5,Stressed
+F,65,Saturday,Eve,65.0,Very Stressed
+F,65,Saturday,Morning,55.5,Stressed
+F,65,Saturday,Night,10.0,Great
+F,65,Saturday,Noon,54.66666666666666,Stressed
+F,65,Sunday,Eve,65.0,Very Stressed
+F,65,Sunday,Night,52.5,Stressed
+F,65,Thursday,Eve,65.0,Very Stressed
+F,65,Thursday,Noon,51.25,Stressed
+F,65,Tuesday,Eve,65.0,Very Stressed
+F,65,Tuesday,Night,65.0,Very Stressed
+F,65,Tuesday,Noon,52.0,Stressed
+F,65,Wednesday,Eve,24.5,Alright
+F,65,Wednesday,Morning,69.0,Very Stressed
+F,65,Wednesday,Night,65.33333333333333,Very Stressed
+F,66,Friday,Night,49.5,Stressed
+F,66,Monday,Eve,65.0,Very Stressed
+F,66,Monday,Morning,65.0,Very Stressed
+F,66,Saturday,Night,65.0,Very Stressed
+F,66,Tuesday,Night,65.0,Very Stressed
+F,66,Tuesday,Noon,62.0,Very Stressed
+F,66,Wednesday,Night,65.0,Very Stressed
+F,67,Friday,Morning,62.0,Very Stressed
+F,67,Friday,Night,65.0,Very Stressed
+F,67,Tuesday,Eve,65.0,Very Stressed
+F,67,Wednesday,Night,65.5,Very Stressed
+F,68,Friday,Night,40.0,Alright
+F,68,Monday,Morning,65.0,Very Stressed
+F,68,Monday,Noon,63.5,Very Stressed
+F,68,Saturday,Night,65.0,Very Stressed
+F,68,Thursday,Morning,65.0,Very Stressed
+F,68,Thursday,Night,94.0,Exhausted
+F,68,Tuesday,Night,46.0,Stressed
+F,68,Wednesday,Eve,65.0,Very Stressed
+F,68,Wednesday,Night,65.0,Very Stressed
+F,69,Friday,Night,65.0,Very Stressed
+F,69,Monday,Eve,65.0,Very Stressed
+F,69,Monday,Noon,39.0,Alright
+F,69,Sunday,Morning,34.0,Alright
+F,69,Sunday,Night,65.0,Very Stressed
+F,69,Thursday,Eve,46.0,Stressed
+F,69,Thursday,Night,65.0,Very Stressed
+F,69,Wednesday,Eve,65.0,Very Stressed
+F,69,Wednesday,Night,65.0,Very Stressed
+F,70,Monday,Noon,52.0,Stressed
+F,70,Saturday,Eve,52.0,Stressed
+F,70,Sunday,Night,65.0,Very Stressed
+F,70,Wednesday,Night,69.0,Very Stressed
+F,71,Monday,Eve,65.0,Very Stressed
+F,71,Monday,Night,92.0,Exhausted
+F,71,Saturday,Morning,18.0,Great
+F,71,Saturday,Night,65.0,Very Stressed
+F,71,Sunday,Morning,78.0,Very Stressed
+F,71,Sunday,Night,65.0,Very Stressed
+F,71,Thursday,Night,10.0,Great
+F,71,Tuesday,Night,55.5,Stressed
+F,72,Friday,Eve,46.0,Stressed
+F,72,Friday,Night,65.0,Very Stressed
+F,72,Friday,Noon,39.0,Alright
+F,72,Monday,Eve,65.0,Very Stressed
+F,72,Thursday,Morning,65.0,Very Stressed
+F,72,Thursday,Night,92.0,Exhausted
+F,72,Tuesday,Eve,52.0,Stressed
+F,72,Wednesday,Noon,55.5,Stressed
+F,73,Friday,Eve,65.0,Very Stressed
+F,73,Friday,Night,65.0,Very Stressed
+F,73,Monday,Noon,65.0,Very Stressed
+F,73,Saturday,Night,65.0,Very Stressed
+F,73,Thursday,Night,65.0,Very Stressed
+F,73,Thursday,Noon,62.0,Very Stressed
+F,74,Friday,Night,58.0,Stressed
+F,74,Monday,Morning,65.0,Very Stressed
+F,74,Sunday,Noon,65.0,Very Stressed
+F,74,Thursday,Night,31.0,Alright
+F,74,Tuesday,Night,65.0,Very Stressed
+F,74,Wednesday,Morning,65.0,Very Stressed
+F,75,Friday,Night,57.0,Stressed
+F,75,Friday,Noon,46.0,Stressed
+F,75,Monday,Morning,65.0,Very Stressed
+F,75,Monday,Noon,46.0,Stressed
+F,75,Thursday,Noon,65.0,Very Stressed
+F,75,Tuesday,Morning,40.0,Alright
+F,75,Tuesday,Night,42.0,Stressed
+F,75,Wednesday,Night,65.0,Very Stressed
+F,75,Wednesday,Noon,66.0,Very Stressed
+F,76,Sunday,Morning,65.0,Very Stressed
+F,76,Sunday,Night,65.0,Very Stressed
+F,76,Sunday,Noon,65.0,Very Stressed
+F,76,Tuesday,Eve,65.0,Very Stressed
+F,77,Friday,Morning,65.0,Very Stressed
+F,77,Friday,Night,65.0,Very Stressed
+F,77,Monday,Night,65.0,Very Stressed
+F,77,Saturday,Night,66.0,Very Stressed
+F,77,Thursday,Night,65.0,Very Stressed
+F,77,Tuesday,Noon,62.0,Very Stressed
+F,77,Wednesday,Night,68.0,Very Stressed
+F,78,Saturday,Night,65.0,Very Stressed
+F,78,Thursday,Night,65.0,Very Stressed
+F,78,Tuesday,Night,65.0,Very Stressed
+F,78,Wednesday,Eve,38.0,Alright
+F,78,Wednesday,Night,46.0,Stressed
+F,78,Wednesday,Noon,46.0,Stressed
+F,79,Friday,Eve,65.0,Very Stressed
+F,79,Friday,Night,65.0,Very Stressed
+F,79,Monday,Eve,65.0,Very Stressed
+F,79,Sunday,Eve,94.0,Exhausted
+F,79,Thursday,Noon,65.0,Very Stressed
+F,80,Saturday,Morning,37.5,Alright
+F,80,Thursday,Night,65.0,Very Stressed
+F,80,Tuesday,Eve,65.0,Very Stressed
+M,25,Friday,Eve,46.0,Stressed
+M,26,Friday,Eve,92.0,Exhausted
+M,26,Friday,Morning,65.0,Very Stressed
+M,26,Friday,Night,65.0,Very Stressed
+M,26,Tuesday,Night,39.0,Alright
+M,27,Friday,Eve,65.0,Very Stressed
+M,27,Saturday,Morning,46.0,Stressed
+M,27,Thursday,Eve,34.0,Alright
+M,27,Thursday,Night,52.0,Stressed
+M,28,Friday,Eve,52.33333333333334,Stressed
+M,28,Friday,Night,66.0,Very Stressed
+M,28,Friday,Noon,65.5,Very Stressed
+M,28,Sunday,Night,39.0,Alright
+M,28,Thursday,Night,10.0,Great
+M,28,Tuesday,Eve,62.0,Very Stressed
+M,29,Friday,Eve,65.0,Very Stressed
+M,29,Friday,Morning,69.0,Very Stressed
+M,29,Friday,Night,54.0,Stressed
+M,29,Friday,Noon,65.0,Very Stressed
+M,29,Monday,Eve,39.0,Alright
+M,29,Tuesday,Night,52.0,Stressed
+M,30,Friday,Eve,40.0,Alright
+M,30,Friday,Morning,65.0,Very Stressed
+M,30,Friday,Night,66.0,Very Stressed
+M,30,Friday,Noon,66.0,Very Stressed
+M,30,Saturday,Morning,46.0,Stressed
+M,30,Thursday,Eve,34.0,Alright
+M,30,Thursday,Night,46.0,Stressed
+M,31,Friday,Eve,65.0,Very Stressed
+M,31,Friday,Night,66.0,Very Stressed
+M,31,Monday,Night,39.0,Alright
+M,31,Saturday,Night,46.0,Stressed
+M,31,Thursday,Eve,65.0,Very Stressed
+M,31,Tuesday,Eve,62.0,Very Stressed
+M,31,Tuesday,Night,39.0,Alright
+M,31,Wednesday,Night,46.0,Stressed
+M,32,Friday,Eve,66.0,Very Stressed
+M,32,Friday,Morning,46.0,Stressed
+M,32,Friday,Noon,65.0,Very Stressed
+M,32,Saturday,Night,40.0,Alright
+M,32,Thursday,Eve,34.0,Alright
+M,33,Friday,Eve,65.5,Very Stressed
+M,33,Friday,Night,61.5,Very Stressed
+M,33,Tuesday,Eve,62.0,Very Stressed
+M,34,Friday,Night,65.0,Very Stressed
+M,34,Friday,Noon,65.0,Very Stressed
+M,34,Monday,Eve,39.0,Alright
+M,34,Wednesday,Night,54.0,Stressed
+M,35,Friday,Eve,65.0,Very Stressed
+M,35,Friday,Night,63.0,Very Stressed
+M,35,Monday,Eve,39.0,Alright
+M,35,Tuesday,Night,62.0,Very Stressed
+M,36,Friday,Eve,58.75,Stressed
+M,36,Friday,Night,65.0,Very Stressed
+M,36,Friday,Noon,46.0,Stressed
+M,36,Tuesday,Morning,62.0,Very Stressed
+M,36,Wednesday,Night,46.0,Stressed
+M,37,Friday,Eve,53.75,Stressed
+M,37,Friday,Noon,66.0,Very Stressed
+M,37,Tuesday,Night,62.0,Very Stressed
+M,38,Friday,Eve,62.0,Very Stressed
+M,38,Friday,Night,75.33333333333333,Very Stressed
+M,38,Thursday,Eve,65.0,Very Stressed
+M,38,Tuesday,Eve,62.0,Very Stressed
+M,39,Friday,Eve,52.5,Stressed
+M,39,Friday,Night,62.0,Very Stressed
+M,40,Friday,Morning,65.0,Very Stressed
+M,40,Friday,Night,65.0,Very Stressed
+M,40,Friday,Noon,72.0,Very Stressed
+M,40,Saturday,Night,40.0,Alright
+M,41,Friday,Eve,52.5,Stressed
+M,41,Saturday,Morning,58.0,Stressed
+M,41,Thursday,Night,65.0,Very Stressed
+M,42,Friday,Eve,65.0,Very Stressed
+M,42,Friday,Night,56.33333333333334,Stressed
+M,43,Friday,Eve,65.0,Very Stressed
+M,43,Friday,Night,55.5,Stressed
+M,43,Tuesday,Night,62.0,Very Stressed
+M,44,Friday,Eve,65.0,Very Stressed
+M,44,Friday,Morning,69.0,Very Stressed
+M,44,Thursday,Eve,46.0,Stressed
+M,44,Wednesday,Eve,62.0,Very Stressed
+M,45,Friday,Eve,46.0,Stressed
+M,45,Friday,Night,66.0,Very Stressed
+M,45,Friday,Noon,67.66666666666667,Very Stressed
+M,45,Monday,Eve,39.0,Alright
+M,45,Thursday,Night,52.0,Stressed
+M,46,Friday,Eve,55.5,Stressed
+M,46,Friday,Night,69.0,Very Stressed
+M,46,Friday,Noon,65.0,Very Stressed
+M,46,Saturday,Morning,46.0,Stressed
+M,46,Saturday,Night,52.0,Stressed
+M,47,Friday,Eve,65.0,Very Stressed
+M,47,Friday,Noon,46.0,Stressed
+M,47,Saturday,Night,40.0,Alright
+M,48,Friday,Eve,60.0,Stressed
+M,48,Friday,Night,55.0,Stressed
+M,48,Saturday,Morning,46.0,Stressed
+M,48,Wednesday,Night,62.0,Very Stressed
+M,49,Friday,Eve,89.0,Exhausted
+M,49,Friday,Noon,69.5,Very Stressed
+M,49,Tuesday,Night,52.0,Stressed
+M,49,Wednesday,Night,62.0,Very Stressed
+M,50,Friday,Eve,65.0,Very Stressed
+M,50,Friday,Night,61.66666666666666,Very Stressed
+M,50,Friday,Noon,66.0,Very Stressed
+M,50,Saturday,Morning,46.0,Stressed
+M,50,Sunday,Night,39.0,Alright
+M,54,Thursday,Eve,65.0,Very Stressed
+M,55,Friday,Morning,69.0,Very Stressed
+M,58,Friday,Eve,85.0,Exhausted
+M,58,Friday,Morning,69.0,Very Stressed
+M,58,Saturday,Morning,46.0,Stressed
+M,60,Friday,Eve,40.0,Alright
