@@ -2,7 +2,7 @@
 
 **Description**
 
-Jupiter provides stress prediction in case there is no calendar data available.  The focus is on the data collected from the previous versions of the app calendar data to predict the stress level of a new user. It is based on the aggregated features 
+Jupiter provides stress prediction in case there is no calendar data available of the user.  The focus is on the data collected from the previous versions of an app  to predict the stress level of a new user.
 
 **Phase 1:**
 
